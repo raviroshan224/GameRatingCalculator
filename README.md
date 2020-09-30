@@ -1,4 +1,4 @@
-GameRatingCalculator
+GameRatingCalculator --- finally i look at this unique 
 ====================
 
 Android app for calculating rating changes in 2-6 person games. Uses a modified version of Elo rating algorithm to produce accurate rankings for multiplayer games. For two player games, the algorithm is identical to a standard elo algorithm.
